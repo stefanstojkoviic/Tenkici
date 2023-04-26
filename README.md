@@ -10,3 +10,8 @@ Start screen
 
 
 How game actually looks like
+
+
+
+## Potrebne biblioteke
+- `pygame`
